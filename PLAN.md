@@ -229,6 +229,6 @@ insert into product_variants (product_id, size, sku, inventory_count) values
 
 ## Reference Implementation
 
-For a complete working example, see: https://github.com/nickytonline/lightspark-store
+For a complete working example, see: https://github.com/patcapulong/lightspark-store-kit
 
 This plan was extracted from that codebase. It uses Next.js, Supabase, and the Spark SDK — but you can adapt the patterns to any framework and database.

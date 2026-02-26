@@ -53,7 +53,7 @@ Before you start, you'll need:
 
 ## Reference implementation
 
-See the full working store this kit was extracted from: [github.com/nickytonline/lightspark-store](https://github.com/nickytonline/lightspark-store)
+See the full working store this kit was extracted from: [github.com/patcapulong/lightspark-store-kit](https://github.com/patcapulong/lightspark-store-kit)
 
 ## Links
 
